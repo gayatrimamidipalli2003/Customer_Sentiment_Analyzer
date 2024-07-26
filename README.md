@@ -1,0 +1,2 @@
+# Project Title: Customer Sentiment Analyzer
+It is a sentiment analysis model using Natural Language Processing to classify product reviews as positive or negative. The project involved data cleaning, text preprocessing (including tokenization and lemmatization), and implementing a Multinomial Naive Bayes classifier with TF-IDF vectorization. Created a user-friendly function to predict sentiment for new reviews, showcasing skills in machine learning and NLP techniques.
